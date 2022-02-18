@@ -65,7 +65,3 @@ else:
     print("no es mayor de edad")
 
 print ('terminado')
-
-print ('hola mundo')
-
-print ('hola mundo este es otro comentario 2')
